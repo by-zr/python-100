@@ -6,8 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
+    print(f'👋🏻 Hi all!')  # Press ⌘F8 to toggle the breakpoint.
+    print("Documenting my progress through the Udemy course: 100 Days of Code by Angela Yu.")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
